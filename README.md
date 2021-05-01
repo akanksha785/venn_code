@@ -29,7 +29,8 @@ People who are members of club C only:
 =X-15
 
 
-How to run code in R?
+Instructions to run code in R:
+
 
 1)	Install “VennDiagram” package in Rstudio.
 2)	Read the “coding_test” file in Rstudio.
