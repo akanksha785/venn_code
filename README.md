@@ -29,6 +29,16 @@ People who are members of club C only:
 =X-15
 
 
+How to run code in R?
+
+1)	Install “VennDiagram” package in Rstudio.
+2)	Read the “coding_test” file in Rstudio.
+3)	Run code using source icon placed on the right hand side(besides run icon).
+4)	Enter name of the function in the console:
+e.g.- venn_function(A)
+5) After this, it will ask all values from the user and display the venn diagram.
+
+
 
 
 
